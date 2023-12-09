@@ -1998,6 +1998,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4575325168938060}
   - component: {fileID: 95890794497687646}
+  - component: {fileID: 8956616251355677254}
   m_Layer: 0
   m_Name: Common_frog_prefab
   m_TagString: Untagged
@@ -2049,6 +2050,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &8956616251355677254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1982655410548092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35f364576a4e0e842b14ed254495bb60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animalType: frog
 --- !u!1 &1994209952299596
 GameObject:
   m_ObjectHideFlags: 0
