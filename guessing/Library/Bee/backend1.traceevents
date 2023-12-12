@@ -1,0 +1,67 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1702403865432266, "dur":117, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702403865434479, "dur":57, "ph":"X", "name": "EmitBuildStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702403865432459, "dur":4573, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702403865437074, "dur":19559, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702403865456995, "dur":394, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1702403865457390, "dur":168, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702403865457584, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1702403865462127, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Frameworks/com.unity.ads/Plugins/iOS/UnityAds.framework/Headers/UnityAdsFinishState.h" }}
+,{ "pid":12345, "tid":0, "ts":1702403865465662, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"UnityLinker /Users/a123/Documents/GitHub/guessinganimals/guessing/Library/Bee/artifacts/unitylinker_fi2v.traceevents" }}
+,{ "pid":12345, "tid":0, "ts":1702403865466755, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/mscorlib-FeaturesChecked.txt_fuot.info" }}
+,{ "pid":12345, "tid":0, "ts":1702403865467341, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/iOS/Features/System.Numerics-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":0, "ts":1702403865468179, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/Unity.Services.Analytics-FeaturesChecked.txt_xs6r.info" }}
+,{ "pid":12345, "tid":0, "ts":1702403865470783, "dur":325, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/UnityEngine.PhysicsModule-FeaturesChecked.txt_oloo.info" }}
+,{ "pid":12345, "tid":0, "ts":1702403865472051, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/iOS/Features/UnityEngine.TilemapModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":0, "ts":1702403865474514, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Classes/UI/ActivityIndicator.mm" }}
+,{ "pid":12345, "tid":0, "ts":1702403865476832, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Classes/Unity/UnityMetalSupport.h" }}
+,{ "pid":12345, "tid":0, "ts":1702403865478400, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"IL2CPP_CodeGen /Users/a123/Documents/GitHub/guessinganimals/guessing/Library/Bee/artifacts/il2cpp_conv_oap9.traceevents" }}
+,{ "pid":12345, "tid":0, "ts":1702403865478701, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/Source/il2cppOutput/DOTween__2.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1702403865479679, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/Source/il2cppOutput/GenericMethods__7.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1702403865482672, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/Source/il2cppOutput/Generics__60.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1702403865490746, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/Source/il2cppOutput/UnityEngine.UIElementsModule__7.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1702403865491082, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/Source/il2cppOutput/UnityEngine.UnityAnalyticsCommonModule.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1702403865492306, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/Source/il2cppOutput/Mono.Security_CodeGen.c" }}
+,{ "pid":12345, "tid":0, "ts":1702403865514096, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/build/deploy_x86_64/il2cpp.runtimeconfig.json" }}
+,{ "pid":12345, "tid":0, "ts":1702403865514449, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/build/deploy_x86_64/libmscordaccore.dylib" }}
+,{ "pid":12345, "tid":0, "ts":1702403865523345, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/build/deploy_x86_64/System.Windows.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702403865523401, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/build/deploy_x86_64/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702403865539969, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/external/bdwgc/tests/initsecondarythread.c" }}
+,{ "pid":12345, "tid":0, "ts":1702403865540306, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/external/bdwgc/tests/staticrootstest.c" }}
+,{ "pid":12345, "tid":0, "ts":1702403865541683, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/external/google/sparsehash/sparse_hash_set.h" }}
+,{ "pid":12345, "tid":0, "ts":1702403865541884, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/external/mono/mono/arch/amd64/amd64-codegen.h" }}
+,{ "pid":12345, "tid":0, "ts":1702403865543025, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/external/mono/mono/eglib/goutput.c" }}
+,{ "pid":12345, "tid":0, "ts":1702403865543930, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/external/mono/mono/eglib/gqueue.c" }}
+,{ "pid":12345, "tid":0, "ts":1702403865544169, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/external/mono/mono/eglib/gstring.c" }}
+,{ "pid":12345, "tid":0, "ts":1702403865546290, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/external/mono/mono/metadata/dynamic-image-internals.h" }}
+,{ "pid":12345, "tid":0, "ts":1702403865546366, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/external/mono/mono/metadata/dynamic-image.c" }}
+,{ "pid":12345, "tid":0, "ts":1702403865546486, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/external/mono/mono/metadata/dynamic-stream.c" }}
+,{ "pid":12345, "tid":0, "ts":1702403865546644, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/external/mono/mono/metadata/exception-internals.h" }}
+,{ "pid":12345, "tid":0, "ts":1702403865546721, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/external/mono/mono/metadata/exception.c" }}
+,{ "pid":12345, "tid":0, "ts":1702403865547309, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/external/mono/mono/metadata/handle.c" }}
+,{ "pid":12345, "tid":0, "ts":1702403865558967, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/external/mono/mono/utils/lock-free-array-queue.h" }}
+,{ "pid":12345, "tid":0, "ts":1702403865579836, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/libil2cpp/os/Android/StackTrace.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1702403865597112, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Il2CppOutputProject/IL2CPP/libil2cpp/utils/MarshalingUtils.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1702403865604996, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/LaunchScreen-iPad.png" }}
+,{ "pid":12345, "tid":0, "ts":1702403865605143, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/a123/Documents/happyfarm/Unity-iPhone/Images.xcassets/AppIcon.appiconset/Icon-iPhone-120.png" }}
+,{ "pid":12345, "tid":0, "ts":1702403865606352, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Temp/EditorBuildOutput/UnityLinkerToEditorData.json" }}
+,{ "pid":12345, "tid":0, "ts":1702403865457577, "dur":148855, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702403865606432, "dur":737, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702403865607197, "dur":931, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702403865608160, "dur":1014, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702403865609180, "dur":479, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702403865609664, "dur":70, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702403865609891, "dur":11136, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1702403865457506, "dur":149712, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702403865607224, "dur":892, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1702403865457521, "dur":149707, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1702403865607235, "dur":967, "ph":"X", "name": "File",  "args": { "detail":"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/il2cpp/build/deploy/WindowsBase.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702403865607235, "dur":1918, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702403865457541, "dur":149697, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702403865607245, "dur":962, "ph":"X", "name": "File",  "args": { "detail":"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.DataModel.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1702403865607245, "dur":2394, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702403865457567, "dur":149682, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702403865607251, "dur":1205, "ph":"X", "name": "File",  "args": { "detail":"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.UniversalWindows.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1702403865607251, "dur":2467, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702403865636335, "dur":287, "ph":"X", "name": "ProfilerWriteOutput" }
+,
